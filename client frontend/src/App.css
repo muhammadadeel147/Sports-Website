@@ -40,7 +40,7 @@ textarea:focus {
   padding: 0;
 }
 .Announcement {
-  background-color: #1cb803;
+  background-color: #15c4f0;
   padding: 10px 0px 6px 0px;
 }
 .Announcement .col-md-6 p {
@@ -199,7 +199,7 @@ textarea:focus {
 /* NEWSLATTER */
 .subscribe-section {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.226)),
-    url("https://sasshoes-com.s3.us-west-2.amazonaws.com/img/banner-uplift-21.jpg")
+    url("../src/assets/1.jpg")
       no-repeat scroll center / cover;
   padding: 100px 0 100px;
 }

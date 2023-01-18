@@ -32,25 +32,23 @@ const Header = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 d-flex align-items-center display-none">
-              <p>+923430207473</p>
-              <p>sohailhameed7473@gmail.com</p>
+              <p>+923170293694</p>
+              <p>adeelmuhammadd@gmail.com</p>
             </div>
             <div className=" col-12 col-lg-6 justify-content-center justify-content-lg-end d-flex align-items-center">
-              <a href="https://www.facebook.com/muhammadsohail.hameed.9" target="_blank">
+              <a href="https://www.facebook.com/" target="_blank">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <a href="https://www.instagram.com/p/CYg8DeIttEY/?igshid=MDJmNzVkMjY=" target="_blank" >
+              <a href="https://www.instagram.com/" target="_blank" >
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="https://www.linkedin.com/in/muhammad-sohail-34631b235/" target="_blank">
+              <a href="https://www.linkedin.com/" target="_blank">
                 <i className="fab fa-linkedin-in"></i>
               </a>
-              <a href="https://www.youtube.com/watch?v=oY2WKPmellM&ab_channel=MaryamLifeDiary" target="_blank">
+              <a href="https://www.youtube.com/" target="_blank">
                 <i className="fab fa-youtube"></i>
               </a>
-              <a href="https://www.pinterest.ch/batashoes/" target="_blank">
-                <i className="fab fa-pinterest-p"></i>
-              </a>
+              
             </div>
           </div>
         </div>
